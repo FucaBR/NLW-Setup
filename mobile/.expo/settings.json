@@ -1,6 +1,8 @@
 {
+  "scheme": null,
   "hostType": "lan",
   "lanType": "ip",
+  "devClient": false,
   "dev": true,
   "minify": false,
   "urlRandomness": null,
